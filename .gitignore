@@ -1,0 +1,10 @@
+# Iverilog compilation outputs & wave dumps
+*.vcd
+*.out
+alu_sim
+comp_sim
+gray_sim
+
+# OS / Editor clutter
+.DS_Store
+*.swp
